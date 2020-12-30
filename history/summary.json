@@ -2,7 +2,7 @@
   {
     "name": "Fabrizio Duroni",
     "url": "https://www.fabrizioduroni.it",
-    "icon": "https://favicons.githubusercontent.com/www.fabrizioduroni.it",
+    "icon": "https://www.fabrizioduroni.it/assets/images/fabrizio-duroni.jpg",
     "slug": "fabrizio-duroni",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 205,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
