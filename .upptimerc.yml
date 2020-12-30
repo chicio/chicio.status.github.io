@@ -9,6 +9,10 @@ sites:
   - name: Chicio Coding Blog
     url: https://www.fabrizioduroni.it/blog/    
     maxResponseTime: 10000
+  - name: ID3TagEditor
+    url: https://id3tageditor.fabrizioduroni.it
+    icon: https://raw.githubusercontent.com/chicio/ID3TagEditor/master/Assets/icon-logo-background.png
+    maxResponseTime: 10000    
     
 status-website:
   cname: status.fabrizioduroni.it
