@@ -2,15 +2,17 @@ owner: chicio
 repo: chicio.status.github.io
 
 sites:
-  - name: fabrizioduroni.it
+  - name: Fabrizio Duroni
     url: https://www.fabrizioduroni.it
+  - name: Chicio Coding Blog
+    url: https://www.fabrizioduroni.it/blog/    
 
 status-website:
   cname: status.fabrizioduroni.it
   logoUrl: https://raw.githubusercontent.com/chicio/chicio.github.io/master/_images/blog-logo.jpg
-  name: Chicio Coding
-  introTitle: "Status monitoring 'Chicio Coding' fabrizioduroni.it domain"
-  introMessage: This status page uses **real-time** data from [chicio.status.github.io](chicio.status.github.io). It monitors all the domains and subdomains of fabrizioduroni.it.
+  name: status.fabrizioduroni.it
+  introTitle: "Status monitoring fabrizioduroni.it"
+  introMessage: This status page uses **real-time** data from [chicio.status.github.io](https://github.com/chicio/chicio.status.github.io). It monitors the status of fabrizioduroni.it domain and its subdomains.
   navbar:
     - title: Status
       href: /
