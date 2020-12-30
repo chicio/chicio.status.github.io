@@ -4,20 +4,26 @@ repo: chicio.status.github.io
 sites:
   - name: Fabrizio Duroni
     url: https://www.fabrizioduroni.it
+    icon: https://www.fabrizioduroni.it/assets/images/fabrizio-duroni.jpg
+    maxResponseTime: 10000
   - name: Chicio Coding Blog
     url: https://www.fabrizioduroni.it/blog/    
-
+    maxResponseTime: 10000
+    
 status-website:
   cname: status.fabrizioduroni.it
-  logoUrl: https://raw.githubusercontent.com/chicio/chicio.github.io/master/_images/blog-logo.jpg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.fabrizioduroni.it
   introTitle: "Status monitoring fabrizioduroni.it"
-  introMessage: This status page uses **real-time** data from [chicio.status.github.io](https://github.com/chicio/chicio.status.github.io). It monitors the status of fabrizioduroni.it domain and its subdomains.
+  introMessage: This status page uses **real-time** data from [chicio.status.github.io](https://github.com/chicio/chicio.status.github.io). It monitors the status of [fabrizioduroni.it](https://www.fabrizioduroni.it) domain and its subdomains.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/chicio/chicio.status.github.io
+      
+assignees:
+  - chicio
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
