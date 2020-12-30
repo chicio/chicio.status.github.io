@@ -13,6 +13,10 @@ sites:
     url: https://id3tageditor.fabrizioduroni.it
     icon: https://raw.githubusercontent.com/chicio/ID3TagEditor/master/Assets/icon-logo-background.png
     maxResponseTime: 10000    
+  - name: RangeUISlider
+    url: https://rangeuislider.fabrizioduroni.it
+    icon: https://raw.githubusercontent.com/chicio/chicio.github.io/master/_images/range-ui-slider.png
+    maxResponseTime: 10000        
     
 status-website:
   cname: status.fabrizioduroni.it
