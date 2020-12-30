@@ -9,8 +9,8 @@ status-website:
   cname: status.fabrizioduroni.it
   logoUrl: https://raw.githubusercontent.com/chicio/chicio.github.io/master/_images/blog-logo.jpg
   name: Chicio Coding
-  introTitle: "Status monitoring for my website 'Chicio Coding' https://www.fabrizioduroni.it/. Created with upptime, an open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page uses **real-time** data from [chicio.status.github.io](chicio.status.github.io).
+  introTitle: "Status monitoring 'Chicio Coding' fabrizioduroni.it domain"
+  introMessage: This status page uses **real-time** data from [chicio.status.github.io](chicio.status.github.io). It monitors all the domains and subdomains of fabrizioduroni.it.
   navbar:
     - title: Status
       href: /
