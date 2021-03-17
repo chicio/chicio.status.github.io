@@ -4,19 +4,19 @@
     "url": "https://www.fabrizioduroni.it",
     "icon": "https://www.fabrizioduroni.it/assets/images/fabrizio-duroni.jpg",
     "slug": "fabrizio-duroni",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 216,
-    "timeWeek": 194,
-    "timeMonth": 399,
-    "timeYear": 293,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 292,
+    "timeDay": 204,
+    "timeWeek": 193,
+    "timeMonth": 392,
+    "timeYear": 292,
     "dailyMinutesDown": {
-      "2021-03-17": 1
+      "2021-03-17": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.fabrizioduroni.it/blog/",
     "icon": "https://favicons.githubusercontent.com/www.fabrizioduroni.it",
     "slug": "chicio-coding-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 74,
-    "timeDay": 30,
+    "timeDay": 31,
     "timeWeek": 33,
-    "timeMonth": 153,
+    "timeMonth": 148,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2021-03-17": 1
+      "2021-03-17": 23
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://id3tageditor.fabrizioduroni.it",
     "icon": "https://raw.githubusercontent.com/chicio/ID3TagEditor/master/Assets/icon-logo-background.png",
     "slug": "id-3-tag-editor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 79,
-    "timeWeek": 108,
-    "timeMonth": 131,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 150,
+    "timeDay": 144,
+    "timeWeek": 121,
+    "timeMonth": 134,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2021-03-17": 0
+      "2021-03-17": 23
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://rangeuislider.fabrizioduroni.it",
     "icon": "https://raw.githubusercontent.com/chicio/chicio.github.io/master/_images/range-ui-slider.png",
     "slug": "range-ui-slider",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 155,
-    "timeDay": 114,
-    "timeWeek": 115,
-    "timeMonth": 160,
+    "timeDay": 149,
+    "timeWeek": 123,
+    "timeMonth": 161,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2021-03-17": 0
+      "2021-03-17": 23
     }
   }
 ]
