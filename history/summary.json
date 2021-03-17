@@ -4,10 +4,10 @@
     "url": "https://www.fabrizioduroni.it",
     "icon": "https://www.fabrizioduroni.it/assets/images/fabrizio-duroni.jpg",
     "slug": "fabrizio-duroni",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
@@ -15,17 +15,19 @@
     "timeWeek": 194,
     "timeMonth": 399,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "Chicio Coding Blog",
     "url": "https://www.fabrizioduroni.it/blog/",
     "icon": "https://favicons.githubusercontent.com/www.fabrizioduroni.it",
     "slug": "chicio-coding-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 74,
@@ -33,16 +35,18 @@
     "timeWeek": 33,
     "timeMonth": 153,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "ID3TagEditor",
     "url": "https://id3tageditor.fabrizioduroni.it",
     "icon": "https://raw.githubusercontent.com/chicio/ID3TagEditor/master/Assets/icon-logo-background.png",
     "slug": "id-3-tag-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 108,
     "timeMonth": 131,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   },
   {
     "name": "RangeUISlider",
     "url": "https://rangeuislider.fabrizioduroni.it",
     "icon": "https://raw.githubusercontent.com/chicio/chicio.github.io/master/_images/range-ui-slider.png",
     "slug": "range-ui-slider",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 115,
     "timeMonth": 160,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   }
 ]
