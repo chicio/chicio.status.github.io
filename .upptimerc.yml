@@ -32,3 +32,6 @@ status-website:
       
 assignees:
   - chicio
+  
+workflowSchedule:
+  uptime: "*/15 * * * *"  
