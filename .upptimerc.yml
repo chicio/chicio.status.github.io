@@ -17,6 +17,10 @@ sites:
     url: https://rangeuislider.fabrizioduroni.it
     icon: https://raw.githubusercontent.com/chicio/chicio.github.io/master/_images/range-ui-slider.png
     maxResponseTime: 10000        
+  - name: TabBarUIAction
+    url: http://tabbaruiaction.fabrizioduroni.it
+    icon: https://github.com/chicio/TabBarUIAction/blob/main/Screenshots/logo.png?raw=true
+    maxResponseTime: 10000   
     
 status-website:
   cname: status.fabrizioduroni.it
