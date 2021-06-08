@@ -1,7 +1,7 @@
 url: http://tabbaruiaction.fabrizioduroni.it
-status: up
-code: 200
-responseTime: 175
-lastUpdated: 2021-06-07T23:37:47.122Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2021-06-08T10:27:15.891Z
 startTime: Thu Apr 22 2021 07:28:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
