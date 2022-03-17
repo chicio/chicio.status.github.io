@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 110,
-    "timeWeek": 186,
-    "timeMonth": 183,
+    "timeDay": 89,
+    "timeWeek": 169,
+    "timeMonth": 181,
     "timeYear": 228,
-    "dailyMinutesDown": {
-      "2021-03-17": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Chicio Coding Blog",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 32,
-    "timeWeek": 70,
+    "timeDay": 21,
+    "timeWeek": 68,
     "timeMonth": 61,
     "timeYear": 63,
-    "dailyMinutesDown": {
-      "2021-03-17": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ID3TagEditor",
@@ -51,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 110,
-    "timeWeek": 181,
-    "timeMonth": 183,
-    "timeYear": 193,
-    "dailyMinutesDown": {
-      "2021-03-17": 23
-    }
+    "timeDay": 199,
+    "timeWeek": 194,
+    "timeMonth": 185,
+    "timeYear": 194,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RangeUISlider",
@@ -71,13 +65,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 172,
-    "timeWeek": 159,
-    "timeMonth": 158,
+    "timeDay": 160,
+    "timeWeek": 166,
+    "timeMonth": 161,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2021-03-17": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TabBarUIAction",
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 100,
+    "time": 191,
+    "timeDay": 104,
     "timeWeek": 197,
     "timeMonth": 180,
-    "timeYear": 192,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   }
 ]
