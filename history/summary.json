@@ -76,17 +76,17 @@
     "url": "http://tabbaruiaction.fabrizioduroni.it",
     "icon": "https://github.com/chicio/TabBarUIAction/blob/main/Screenshots/logo.png?raw=true",
     "slug": "tab-bar-ui-action",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 229,
-    "timeWeek": 233,
-    "timeMonth": 242,
-    "timeYear": 209,
+    "time": 228,
+    "timeDay": 6275,
+    "timeWeek": 1744,
+    "timeMonth": 632,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   }
 ]
